@@ -1,0 +1,5 @@
+node_modules
+/task_0/index.html
+/task_0/main.js
+dist/main.js
+dist/main.js.LICENSE.txt
